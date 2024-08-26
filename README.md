@@ -42,7 +42,7 @@ The project is divided into several questions, each addressing different aspects
 - **Code:** Implemented in `Q9.jl`. The file includes a detailed table of iterations.
 
 ### Question 9*: Advanced Implementation (Optional)
-- **Objective:** Implement the Benders algorithm using advanced techniques like callbacks and parallel processing for subproblem solutions, which can yield additional performance improvements.
+- **Objective:** Implement the Benders algorithm using advanced techniques like CPLEX automatic decomposition and parallel benders decomposition, which can yield additional performance improvements.
 - **Code:** Implemented in `Q9_star.jl`.
 
 ## Getting Started
