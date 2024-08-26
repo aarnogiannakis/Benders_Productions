@@ -1,4 +1,4 @@
-**Benders Production Optimization Project Overview**  
+## Benders Production Optimization Project Overview
 This repository contains the implementation of a project focused on optimizing the production process of Benders Production, a chemical production company. The goal is to maximize the daily profit from producing various chemical products using a limited number of machines. The project involves formulating and solving a series of mathematical optimization problems using Mixed-Integer Programming (MIP) and Benders Decomposition techniques. The project is implemented in Julia.
 
 ## Project Structure
